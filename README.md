@@ -1,9 +1,4 @@
 
-![Header](https://via.placeholder.com/1200x300.png?text=🚀+Welcome+to+MD.+Zaker+Hossen's+GitHub+Profile)
-
-<p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=Profile+Image" alt="Profile Picture" width="180" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);"/>
-</p>
 
 # 🎨 **Hello, I'm MD. Zaker Hossen!**
 > 🌟 *Creative Web Developer | WordPress Specialist | Programmer & Designer*
